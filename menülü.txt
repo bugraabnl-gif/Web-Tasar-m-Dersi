@@ -1,0 +1,7 @@
+ProjeAdi/
+  src/
+    Program.cs
+  docs/
+    rapor.pdf
+  images/
+    logo.png
